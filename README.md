@@ -1,6 +1,5 @@
 
-<p> <img src="images/UNCiteslogo.png" width="10%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/> <img src="images/MIKELogo.png" width="25%" height="100%" style="display: block; margin: auto auto auto 0;" align="botom"/>   </p>
-<p> <img src="images/UNCiteslogo.png" width="10%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/><img src="images/TEST_MIKE_logo_long-black_EN-4.jpg" width="25%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/>  </p>
+<p> <img src="images/UN-UNEP Logo (1).png" width="5%" height="10%" style="display: block; margin: auto auto auto 0;" align="top"/><img src="images/TEST_MIKE_logo_long-black_EN-4.jpg" width="35%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/>  </p>
 
 ## Under Development
 # MIKE-GLMM 2024 (unweighted model)
