@@ -41,9 +41,6 @@ The table below provides web page links to technical materials and R code used f
 | Nov 2020   | CITESmike2020/MIKE-GLMM                    | PIKE TREND ANALYSIS USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (full models, 2020) | [https://github.com/CITESmike2020/MIKE-GLMM](https://github.com/CITESmike2020/MIKE-GLMM) |
 | Aug 2019   | CITES-MIKE/MIKE-LSMEANS                    | ORIGINAL LSMEANS CODE (DEPRECATED)                                                          | [https://github.com/CITES-MIKE/MIKE-LSMEANS](https://github.com/CITES-MIKE/MIKE-LSMEANS) |
 
- ## To be updated with new report 2003-2023
-This GitHub repository includes the code to generate the PIKE trend analysis for 2003-2023. The findings of the analysis are reported in 2023, SC77 Doc. 63.1 (page 14). <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01.pdf"> Click here to view the doucument.</a> On page 23 of the SC77 Doc. 63.1 a table provides web page links to technical materials and R code used for PIKE trend analysis spanning from 2019-2023.
-
 
 # MIKE - GLMM  (unweighted) Model for PIKE
 
