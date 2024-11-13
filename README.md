@@ -19,6 +19,8 @@ This GitHub repository includes the code to generate the PIKE trend analysis for
 
 The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in July 2022. <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01-R2_0.pdf"> Click here to see the report.</a> 
 
+The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in July 2022. <a href="The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in July 2022. <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01-R2_0.pdf"> Click here to see the report.</a>"> Click here to see the report.</a>
+
 The Bayesian unweighted GLMM  approach was used to report PIKE trends in the MIKE report: <a href="https://cites.org/sites/default/files/MIKE/E-PIKE_Trend_Analysis_Aug2021.pdf"> Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2021</a>, released by the CITES Secretariat in November 2021. <a href="https://github.com/CITESmike2020/GLMM-2021-unweighted-model"> The code used in the analysis is located here. </a> 
 
 The LSMEANS (previous method) and Bayesian GLMM (weighted/unweighted) approach was used to report PIKE trends in the previous MIKE report: <i> Monitoring the Illegal Killing of Elephants (MIKE)
