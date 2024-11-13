@@ -17,6 +17,15 @@ The Bayesian unweighted GLMM  approach was used to report PIKE trends in the MIK
 
 The Bayesian GLMM (unweighted) approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in July 2022. <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01-R2_0.pdf"> Click here to see the report.</a> 
 
+| Date       | GitHub Repository Name                      | Content                                                                                         | Repository Web Page Link                         |
+|------------|---------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Sept 2024  | CITESmike2023/GLMM-2024-unweighted-model    | PIKE TREND ANALYSIS (2003-2023) USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted model) | [https://github.com/citesmike-code/GLMM-2024-unweighted-model](https://github.com/citesmike-code/GLMM-2024-unweighted-model) |
+| Sept 2023  | CITESmike2023/GLMM-2023-unweighted-model    | PIKE TREND ANALYSIS (2003-2022) USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted model) | [https://github.com/CITESmike2020/GLMM-2023-unweighted-model](https://github.com/CITESmike2020/GLMM-2023-unweighted-model) |
+| June 2022  | CITESmike2020/GLMM-2022-unweighted-model    | PIKE ANALYSIS FOR THE DURATION 2003-2021 (UNWEIGHTED MODEL)                                  | [https://github.com/CITESmike2020/GLMM-2022-unweighted-model](https://github.com/CITESmike2020/GLMM-2022-unweighted-model) |
+| Nov 2021   | CITESmike2020/GLMM-2021-unweighted-model    | PIKE TREND ANALYSIS USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (unweighted, 2021) | [https://github.com/CITESmike2020/GLMM-2021-unweighted-model](https://github.com/CITESmike2020/GLMM-2021-unweighted-model) |
+| Nov 2020   | CITESmike2020/MIKE-GLMM                    | PIKE TREND ANALYSIS USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R (full models, 2020) | [https://github.com/CITESmike2020/MIKE-GLMM](https://github.com/CITESmike2020/MIKE-GLMM) |
+| Aug 2019   | CITES-MIKE/MIKE-LSMEANS                    | ORIGINAL LSMEANS CODE (DEPRECATED)                                                          | [https://github.com/CITES-MIKE/MIKE-LSMEANS](https://github.com/CITES-MIKE/MIKE-LSMEANS) |
+
  ## To be updated with new report 2003-2023
 This GitHub repository includes the code to generate the PIKE trend analysis for 2003-2023. The findings of the analysis are reported in 2023, SC77 Doc. 63.1 (page 14). <a href="https://cites.org/sites/default/files/documents/E-SC77-63-01.pdf"> Click here to view the doucument.</a> On page 23 of the SC77 Doc. 63.1 a table provides web page links to technical materials and R code used for PIKE trend analysis spanning from 2019-2023.
 
@@ -69,6 +78,9 @@ posterior samples from the continental or subregional fits. You likely will NOT 
 -	To generate the slope analysis reports, based on the posterior samples, open and knit the *SlopeAnalysis-Continental.Rmd & SlopeAnalysis-Regional.Rmd* files to create the html/pdf documents.
 
 # Change Log
+
+#### *2024-09-02*
+Removed the dependacies of R packages rgdal and maps. All maps are now produced using ggplot package.
 
 #### *2023-10-01* 
 URL link to the SC77 Doc. 63.1 added to the *README.md* file.
