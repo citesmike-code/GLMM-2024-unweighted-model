@@ -24,7 +24,8 @@ The Bayesian unweighted GLMM  approach was used to report PIKE trends in the MIK
 The LSMEANS (previous method) and Bayesian GLMM (weighted/unweighted) approach was used to report PIKE trends in the previous MIKE report: <i> Monitoring the Illegal Killing of Elephants (MIKE)
 Report: PIKE trend analysis – Methodology and Results</i>, released by the CITES Secretariat in  September 2020. <a href="https://cites.org/sites/default/files/MIKE/E_CITES_Secretariat_MIKE_report_Final_CITESwebsite_Nov2020.pdf"> Click here to see the report.</a> 
 
-The LSMEANS approach is used to report PIKE trends in the previous MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2022</i>, released by the CITES Secretariat in July 2022. <a href="https://github.com/CITES-MIKE/MIKE-LSMEANS/blob/master/190815_PIKETrendUsingLSMEANS.pdf"> Click here to see the report.</a> 
+The LSMEANS approach is used to report PIKE trends in the previous MIKE report: <i>PIKE TREND ANALYSIS USING THE
+LEAST-SQUARES MEANS APPROACH IN R</i>, August 2019. <a href="https://github.com/CITES-MIKE/MIKE-LSMEANS/blob/master/190815_PIKETrendUsingLSMEANS.pdf"> Click here to see the report.</a> 
 
 The table below provides web page links to technical materials and R code used for PIKE trend analysis spanning from 2019-2023.
 
