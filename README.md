@@ -1,7 +1,6 @@
 
 <p> <img src="images/UN-UNEP Logo (1).png" width="5%" height="10%" style="display: block; margin: auto auto auto 0;" align="top"/><img src="images/TEST_MIKE_logo_long-black_EN-4.jpg" width="35%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/>  </p>
 
-## Under Development
 # MIKE-GLMM 2024 (unweighted model)
 **PIKE TREND ANALYSIS 2003-2023 USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R**
 
